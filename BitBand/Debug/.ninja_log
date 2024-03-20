@@ -1,0 +1,22 @@
+# ninja log v5
+651	864	7326405186975992	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/Startup_17868067532763321386.dir/startup_stm32f40xx.o	6090ebcfff415225
+0	436	7326406630929479	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/Application_4454359601498626787.dir/BitBand.o	fd3ff458f0f34fe4
+45	483	7326406631478012	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/CMSIS_13545061835669826545.dir/system_stm32f4xx.o	494bdc27c4a6a8a0
+486	612	7326406632748996	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Exe/BitBand.out	820d996e2340d165
+20	700	7326426989270784	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/Application_4454359601498626787.dir/BitBand.o	4ce8853060d6cefe
+33	746	7326426989749480	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/CMSIS_13545061835669826545.dir/system_stm32f4xx.o	4d2a695c4cc5a697
+702	905	7326426991485100	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/src_210097384124490041.dir/stm32f4xx_it.o	546752da73bbd5de
+908	1425	7326426996566511	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Exe/BitBand.out	fb8ff8b5f781abdb
+2	333	7326438279947409	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/Application_4454359601498626787.dir/BitBand.o	4ce8853060d6cefe
+334	422	7326438280951536	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Exe/BitBand.out	fb8ff8b5f781abdb
+3	335	7326449798060102	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/Application_4454359601498626787.dir/BitBand.o	4ce8853060d6cefe
+337	425	7326449799047729	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Exe/BitBand.out	fb8ff8b5f781abdb
+2	179	7326450297792265	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/Application_4454359601498626787.dir/BitBand.o	4ce8853060d6cefe
+181	257	7326450298569925	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Exe/BitBand.out	fb8ff8b5f781abdb
+9	212	7326450354309315	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/Application_4454359601498626787.dir/BitBand.o	4ce8853060d6cefe
+2	288	7326450355077278	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/CMSIS_13545061835669826545.dir/system_stm32f4xx.o	4d2a695c4cc5a697
+291	726	7326450359492351	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/Startup_17868067532763321386.dir/startup_stm32f40xx.o	6090ebcfff415225
+213	801	7326450360215732	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/src_210097384124490041.dir/stm32f4xx_it.o	546752da73bbd5de
+803	889	7326450361016600	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Exe/BitBand.out	fb8ff8b5f781abdb
+3	184	7326451115129733	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Obj/Application_4454359601498626787.dir/BitBand.o	4ce8853060d6cefe
+185	280	7326451116067542	D:/ARM PROGRAMLAMA/STM32F4_DISC Uygulamalar/exStdperipheral/BitBand/Debug/Exe/BitBand.out	fb8ff8b5f781abdb
